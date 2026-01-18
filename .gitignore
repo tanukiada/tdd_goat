@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Ignored default folder with query files
 /queries/
 # Datasource local storage ignored files
@@ -12,3 +12,4 @@ db.sqlite3
 .venv
 __pycache__
 *.pyc
+/.idea/
